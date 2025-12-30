@@ -1,25 +1,6 @@
 # Data Mining: Clustering and Model Analysis
 
-## Overview
-This project explores clustering and feature analysis using classical data mining techniques. It includes preprocessing, exploratory analysis, K-means clustering, and evaluation using the elbow and silhouette methods.
+This project applies classical data mining techniques to explore structure and patterns within data through clustering and feature analysis. The solution focuses on unsupervised learning to group observations based on similarity, enabling exploratory insights into underlying data distributions and relationships.
 
-## Methods
-- Data cleaning and preprocessing
-- Feature scaling
-- K-means clustering
-- Elbow and silhouette evaluation
-- Cluster visualization
-- JSON backend for exporting processed outputs
+The project leverages data preprocessing, feature scaling, and clustering methods to analyze data behavior and evaluate cluster quality using standard validation techniques. Results are examined through analytical visualizations and structured outputs, demonstrating how clustering can be used to support exploratory analysis and data-driven understanding in practical data mining scenarios.
 
-## How to Run
-Install dependencies:
-```
-pip install -r requirements.txt
-```
-
-Open and run:
-`clustering_analysis.ipynb`
-
-## Notes
-- Only sample JSON data is included.
-- Full dataset should be downloaded separately.
